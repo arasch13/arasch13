@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arasch13
 - 👀 I’m interested in software engineering, especially in the field of data science and machine learning 
-- 🌱 I’m currently learning ML modules like tensorflow and openCV and on the topic of handling big data
+- 🌱 I’m currently undergoing the full-stack developer curriculum of theOdinProject
 - 💞️ I’m looking to collaborate on projects to deepen knowledge on mentioned topics
 
 <!---
